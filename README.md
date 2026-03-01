@@ -24,3 +24,6 @@ This project was originally developed for a hackathon and demonstrates how auton
 ### Install dependencies
 ```bash
 pip install streamlit pandas
+
+## 🚀 Live Demo
+Try the app here: [Autonomous Campus Energy Manager](https://autonomous-campus-energy-manager.streamlit.app/)
