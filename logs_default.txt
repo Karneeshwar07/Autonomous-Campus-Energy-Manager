@@ -1,0 +1,80 @@
+
+--- Day 1 ---
+[Think] Current usage: {'Classroom A': 50, 'Classroom B': 25}
+[Plan] Decisions: {'Classroom A': 'Keep devices ON', 'Classroom B': 'Keep devices ON'}
+[Execute] Classroom A: Keep devices ON
+[Execute] Classroom B: Keep devices ON
+[Review] Outcomes: {'Classroom A': 'Normal usage', 'Classroom B': 'Normal usage'}
+[Update] New threshold: 54
+
+--- Day 2 ---
+[Think] Current usage: {'Classroom A': 97, 'Classroom B': 64}
+[Plan] Decisions: {'Classroom A': 'Turn OFF devices', 'Classroom B': 'Turn OFF devices'}
+[Execute] Classroom A: Turn OFF devices
+[Execute] Classroom B: Turn OFF devices
+[Review] Outcomes: {'Classroom A': 'Saved energy', 'Classroom B': 'Saved energy'}
+[Update] New threshold: 50
+
+--- Day 3 ---
+[Think] Current usage: {'Classroom A': 30, 'Classroom B': 47}
+[Plan] Decisions: {'Classroom A': 'Keep devices ON', 'Classroom B': 'Keep devices ON'}
+[Execute] Classroom A: Keep devices ON
+[Execute] Classroom B: Keep devices ON
+[Review] Outcomes: {'Classroom A': 'Normal usage', 'Classroom B': 'Normal usage'}
+[Update] New threshold: 54
+
+--- Day 4 ---
+[Think] Current usage: {'Classroom A': 30, 'Classroom B': 42}
+[Plan] Decisions: {'Classroom A': 'Keep devices ON', 'Classroom B': 'Keep devices ON'}
+[Execute] Classroom A: Keep devices ON
+[Execute] Classroom B: Keep devices ON
+[Review] Outcomes: {'Classroom A': 'Normal usage', 'Classroom B': 'Normal usage'}
+[Update] New threshold: 58
+
+--- Day 5 ---
+[Think] Current usage: {'Classroom A': 45, 'Classroom B': 77}
+[Plan] Decisions: {'Classroom A': 'Keep devices ON', 'Classroom B': 'Turn OFF devices'}
+[Execute] Classroom A: Keep devices ON
+[Execute] Classroom B: Turn OFF devices
+[Review] Outcomes: {'Classroom A': 'Normal usage', 'Classroom B': 'Saved energy'}
+[Update] New threshold: 58
+
+--- Day 6 ---
+[Think] Current usage: {'Classroom A': 76, 'Classroom B': 78}
+[Plan] Decisions: {'Classroom A': 'Turn OFF devices', 'Classroom B': 'Turn OFF devices'}
+[Execute] Classroom A: Turn OFF devices
+[Execute] Classroom B: Turn OFF devices
+[Review] Outcomes: {'Classroom A': 'Saved energy', 'Classroom B': 'Saved energy'}
+[Update] New threshold: 54
+
+--- Day 7 ---
+[Think] Current usage: {'Classroom A': 27, 'Classroom B': 68}
+[Plan] Decisions: {'Classroom A': 'Keep devices ON', 'Classroom B': 'Turn OFF devices'}
+[Execute] Classroom A: Keep devices ON
+[Execute] Classroom B: Turn OFF devices
+[Review] Outcomes: {'Classroom A': 'Normal usage', 'Classroom B': 'Saved energy'}
+[Update] New threshold: 54
+
+--- Day 8 ---
+[Think] Current usage: {'Classroom A': 43, 'Classroom B': 88}
+[Plan] Decisions: {'Classroom A': 'Keep devices ON', 'Classroom B': 'Turn OFF devices'}
+[Execute] Classroom A: Keep devices ON
+[Execute] Classroom B: Turn OFF devices
+[Review] Outcomes: {'Classroom A': 'Normal usage', 'Classroom B': 'Saved energy'}
+[Update] New threshold: 54
+
+--- Day 9 ---
+[Think] Current usage: {'Classroom A': 25, 'Classroom B': 74}
+[Plan] Decisions: {'Classroom A': 'Keep devices ON', 'Classroom B': 'Turn OFF devices'}
+[Execute] Classroom A: Keep devices ON
+[Execute] Classroom B: Turn OFF devices
+[Review] Outcomes: {'Classroom A': 'Normal usage', 'Classroom B': 'Saved energy'}
+[Update] New threshold: 54
+
+--- Day 10 ---
+[Think] Current usage: {'Classroom A': 78, 'Classroom B': 87}
+[Plan] Decisions: {'Classroom A': 'Turn OFF devices', 'Classroom B': 'Turn OFF devices'}
+[Execute] Classroom A: Turn OFF devices
+[Execute] Classroom B: Turn OFF devices
+[Review] Outcomes: {'Classroom A': 'Saved energy', 'Classroom B': 'Saved energy'}
+[Update] New threshold: 50
